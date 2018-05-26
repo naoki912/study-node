@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/naoki912/study-node/issues"
   },
-  "homepage": "https://github.com/naoki912/study-node#readme"
+  "homepage": "https://github.com/naoki912/study-node#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
 }
